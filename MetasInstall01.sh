@@ -1,5 +1,5 @@
-#!/bin/baah
-#script by KiLAN01
+#!/bin/bash
+#script por KiLAN01
 #\033[01;numero+m
 #_________________________________________________________
 #00 nenhum     | #33 amarelo | #34 azul    | #35 rosa    |
@@ -25,7 +25,7 @@ clear
  pkg install curl -y
 } 1> /dev/null 2>&1
       echo  -e "\033[01;30m
-     \033[01;30m\033[01;41mgit: https://github.com/KiLAN01/01Metas\033[01;00m\033[01;30m
+     \033[01;30m\033[01;41m git: https://github.com/KiLAN01/01Metas\033[01;00m\033[01;30m
 
       ------------------------------------------------
        |    script version 1.0 | \033[01;41mSCRIPT BY KiLAN\033[01;41m\033[01;33m01\033[01;00m\033[01;30m  |
@@ -42,7 +42,7 @@ clear
 sleep 2
 clear
 echo  -e "\033[01;30m
-     \033[01;30m\033[01;41mgit: https://github.com/KiLAN01/01Metas\033[01;00m\033[01;30m
+     \033[01;30m\033[01;41m git: https://github.com/KiLAN01/01Metas\033[01;00m\033[01;30m
 
       ------------------------------------------------
        |    script version 1.0 | \033[01;41mSCRIPT BY KiLAN\033[01;41m\033[01;33m01\033[01;00m\033[01;30m  |
@@ -57,7 +57,7 @@ sudo ./msfinstall
 
 
 echo  -e "\033[01;30m
-     \033[01;30m\033[01;41mgit: https://github.com/KiLAN01/01Metas\033[01;00m\033[01;30m
+     \033[01;30m\033[01;41m git: https://github.com/KiLAN01/01Metas\033[01;00m\033[01;30m
       ------------------------------------------------
        |    script version 1.0 | \033[01;41mSCRIPT BY KiLAN\033[01;41m\033[01;33m01\033[01;00m\033[01;30m  |
        |    \033[01;00m\033[01;41m\033[01;30mMetasploit...\033[01;00m\033[01;30mInstalled                  |
