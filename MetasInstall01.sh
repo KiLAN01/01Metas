@@ -25,11 +25,13 @@ clear
  pkg install curl -y
 } 1> /dev/null 2>&1
       echo  -e "\033[01;30m
+     \033[01;30m\033[01;41mgit: https://github.com/KiLAN01/01Metas\033[01;00m\033[01;30m
 
       ------------------------------------------------
        |    script version 1.0 | \033[01;41mSCRIPT BY KiLAN\033[01;41m\033[01;33m01\033[01;00m\033[01;30m  |
        |   Installing \033[01;00m\033[01;41mMetasploit...\033[01;00m\033[01;30m                 |
       ------------------------------------------------"
+
 {
        sudo rm -rf msfinstall
       curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall
@@ -40,6 +42,7 @@ clear
 sleep 2
 clear
 echo  -e "\033[01;30m
+     \033[01;30m\033[01;41mgit: https://github.com/KiLAN01/01Metas\033[01;00m\033[01;30m
 
       ------------------------------------------------
        |    script version 1.0 | \033[01;41mSCRIPT BY KiLAN\033[01;41m\033[01;33m01\033[01;00m\033[01;30m  |
@@ -54,7 +57,7 @@ sudo ./msfinstall
 
 
 echo  -e "\033[01;30m
-
+     \033[01;30m\033[01;41mgit: https://github.com/KiLAN01/01Metas\033[01;00m\033[01;30m
       ------------------------------------------------
        |    script version 1.0 | \033[01;41mSCRIPT BY KiLAN\033[01;41m\033[01;33m01\033[01;00m\033[01;30m  |
        |    \033[01;00m\033[01;41m\033[01;30mMetasploit...\033[01;00m\033[01;30mInstalled                  |
