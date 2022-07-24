@@ -7,7 +7,15 @@ Instalador de metasploit para Android (Userland) não ececute em termux resultar
 comandos:
 
 
+
+sudo su
+
+
+
+
 apt update 
+
+
 
 apt upgrade -y
 
